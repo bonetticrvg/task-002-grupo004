@@ -49,3 +49,16 @@
 
 ### Rank no [IMDB](https://www.imdb.com/title/tt0460681/): 8.4/10 :star::star::star::star::star::star::star::star:
 
+
+## Língua Padrão das branchs: Inglês
+
+
+## Branchs e participantes:
+| Branch | Autor |
+| :-: | :-: |
+| []() | [Assucena Araújo](https://github.com/AssucenaSaldanhaa) |
+| []() | [Camila Bauer](https://github.com/CamilaBauer) |
+| []() | [João Paulo](https://github.com/bonetticrvg) |
+| []() | [Lucas Lima](https://github.com/lucasbernardodev) |
+| []() | [Luísa dos Santos](https://github.com/Luh-Santos) |
+| []() | [Vinícius Byakko](https://github.com/Vinicius-Oliveira-Bk) |
