@@ -56,9 +56,9 @@
 ## Branchs e participantes:
 | Branch | Autor |
 | :-: | :-: |
-| []() | [Assucena Araújo](https://github.com/AssucenaSaldanhaa) |
-| []() | [Camila Bauer](https://github.com/CamilaBauer) |
-| []() | [João Paulo](https://github.com/bonetticrvg) |
-| []() | [Lucas Lima](https://github.com/lucasbernardodev) |
-| []() | [Luísa dos Santos](https://github.com/Luh-Santos) |
-| []() | [Vinícius Byakko](https://github.com/Vinicius-Oliveira-Bk) |
+| [feat-add-index2](https://github.com/bonetticrvg/task-002-grupo004/tree/feat-add-index2 ) | [Assucena Araújo](https://github.com/AssucenaSaldanhaa) |
+| [feat-add-index](https://github.com/bonetticrvg/task-002-grupo004/tree/feat-add-index) | [Camila Bauer](https://github.com/CamilaBauer) |
+| [feat-readme](https://github.com/bonetticrvg/task-002-grupo004/tree/feat-readme) | [João Paulo](https://github.com/bonetticrvg) |
+| [feat-add-movie3](https://github.com/bonetticrvg/task-002-grupo004/tree/feat-add-movie3) | [Lucas Lima](https://github.com/lucasbernardodev) |
+| [feat-add-movie2](https://github.com/bonetticrvg/task-002-grupo004/tree/feat-add-movie2) | [Luísa dos Santos](https://github.com/Luh-Santos) |
+| [feat-add-movie1](https://github.com/bonetticrvg/task-002-grupo004/tree/feat-add-movie1) | [Vinícius Byakko](https://github.com/Vinicius-Oliveira-Bk) |
